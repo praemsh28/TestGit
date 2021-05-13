@@ -1,4 +1,0 @@
-this file is created for testing
-
-This is git testing !!
-Welcome to the world!!
